@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KingMarine-GH</h1>
+call me king, i'm busy on my first webapp
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingmarine-gh&label=Profile%20views&color=0e75b6&style=flat" alt="kingmarine-gh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingmarine-gh&theme=discord" alt="kingmarine-gh" /></a> </p>
